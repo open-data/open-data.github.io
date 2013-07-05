@@ -1,0 +1,30 @@
+# standard jekyll configuration
+
+title_en: "Open Data"
+title_fr: "Données ouvertest"
+description_en: "Open Data Project"
+description_fr: "Le projet Donnéées ouvertes."
+languages: true
+search: false
+subsite: false
+site_menu: true
+breadcrumb: true
+content_editable: true
+content_revision_history: true
+content_questions_comments: true
+date_modified: false
+secondary_menu: false
+secondary_menu_include: null
+url: "http://open-data.github.io/"
+repo_name: "open-data.github.io"
+branch: "master"
+
+#global settings, no need to change these
+root_url: "http://open-data.github.io"
+org_name: "open-data"
+prose_url: "http://prose.io"
+
+# default build settings for running locally, no need to edit
+pymgemnts: true
+exclude: ['README.md']
+
