@@ -3,11 +3,12 @@ published: true
 layout: "default-theme-ogpl-en"
 permalink: "speed-dating.html"
 filename_root: index
-title: Open Data
+title: Speed Dating
 description: English description / Description en anglais
 modified: "Date modified (YYYY-MM-DD) / Date de modification (AAAA-MM-JJ)"
 breadcrumb: false
 ---
 
-test
-test2
+{{ site.description_en }}
+
+will it not render without a header?
