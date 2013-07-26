@@ -28,4 +28,4 @@ prose_url: "http://prose.io"
 pymgemnts: true
 exclude: ['README.md']
 exclude: ['test.md']
-excluse: ['speed-dating.md']
+exclude: ['speed-dating.md']
