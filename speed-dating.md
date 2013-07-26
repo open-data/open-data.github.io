@@ -11,4 +11,16 @@ breadcrumb: false
 
 {{ site.description_en }}
 
-test text
+Are you passionate about using open data to create innovative solutions to economic, environmental or social problems?
+
+Whether it's apps, websites, analysis or other creative uses, we know that finding and understanding the available Canadian and international open data can be a challenge.
+
+The GTEC 2013 Open Data Speed Dating Event will provide the ideal match-making opportunity for Open Data Curators and developers, with a focus on Canadian data. 
+
+*Speed Data-ing*
+
+Participants will be matched with up to 20 Open Data owners from across the Canadian federal, provincial/territorial and municipal governments for a series of rapid one-on-one conversations. Each conversation will be unique and defined by you. Discussions can range from opportunities to work more collaboratively on open data projects to exploring available data in greater detail and its potential uses or applications. This is also a good opportunity to talk to federal data owners and other open data enthusiasts to brainstorm on potential submissions to the **upcoming Canadian Open Data Everywhere (CODE) challenge**.
+
+[GTEC](http://www.gtec.ca/) is an annual technology conference in Ottawa, Ontario, Canada.
+
+Stay tuned for more information on how to participate in the open data speed dating event!
