@@ -10,3 +10,4 @@ breadcrumb: false
 ---
 
 test
+test2
