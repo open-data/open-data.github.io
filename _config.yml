@@ -1,9 +1,9 @@
 # standard jekyll configuration
 
 title_en: "Open Data"
-title_fr: "Donn�es ouvertes"
+title_fr: "Donn ouvertes"
 description_en: "Open Data Project"
-description_fr: "Le projet donn�es ouvertes"
+description_fr: "Le projet donn ouvertes"
 languages: true
 search: false
 subsite: false
@@ -28,5 +28,4 @@ prose_url: "http://prose.io"
 pymgemnts: true
 exclude: ['README.md']
 exclude: ['test.md']
-exclude: ['speed-dating.md']
 exclude: ['index-fr.md']
