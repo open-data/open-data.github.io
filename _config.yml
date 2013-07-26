@@ -29,3 +29,4 @@ pymgemnts: true
 exclude: ['README.md']
 exclude: ['test.md']
 exclude: ['speed-dating.md']
+exclude: ['index-fr.md']
