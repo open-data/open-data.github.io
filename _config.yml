@@ -1,9 +1,9 @@
 # standard jekyll configuration
 
 title_en: "Open Data"
-title_fr: "Données ouvertest"
+title_fr: "Données ouvertes"
 description_en: "Open Data Project"
-description_fr: "Le projet Donnéées ouvertes."
+description_fr: "Le projet données ouvertes"
 languages: true
 search: false
 subsite: false
