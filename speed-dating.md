@@ -4,6 +4,9 @@ layout: "default-theme-ogpl-en"
 permalink: "speed-dating.html"
 filename_root: index
 title: GTEC 2013 Open Data Speed Dating
+description: test page
+modified: "Date modified (YYYY-MM-DD) / Date de modification (AAAA-MM-JJ)"
+breadcrumb: false
 ---
 
 Are you passionate about using open data to create innovative solutions to economic, environmental or social problems?
