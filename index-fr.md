@@ -3,7 +3,7 @@ published: true
 layout: "default-theme-ogpl-fr"
 permalink: "index-fr.html"
 filename_root: index
-title: Donneés Ouverte
+title: Donneï¿½s Ouvertes
 description: French description / Description en franÃ§ais
 modified: "Date modified (YYYY-MM-DD) / Date de modification (AAAA-MM-JJ)"
 breadcrumb: false
