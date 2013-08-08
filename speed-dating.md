@@ -13,7 +13,7 @@ breadcrumb: false
 
 Are you passionate about using open data to create innovative solutions to economic, environmental or social problems?
 
-Whether it’s mobile apps, websites, or other creative uses, we know that finding and understanding Canadian and international open data can be a challenge.
+Whether you're creating mobile apps or websites, or doing analysis and visualization, we know that finding and understanding Canadian and international open data can be a challenge.
 
 The GTEC 2013 Open Data Speed Dating Event will provide the ideal match-making opportunity for Open Data curators and developers, with a focus on Canadian data. 
 
