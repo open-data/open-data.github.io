@@ -24,6 +24,11 @@ root_url: "http://open-data.github.io"
 org_name: "open-data"
 prose_url: "http://prose.io"
 
+# settings from github-pages doc
+safe: true
+lsi: false
+
 # default build settings for running locally, no need to edit
-pymgemnts: true
+#pymgemnts: true
+pygments: true
 exclude: ['README.md']

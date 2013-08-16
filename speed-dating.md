@@ -1,6 +1,5 @@
 ---
 published: true
-layout: "default-theme-ogpl-en"
 permalink: "speed-dating.html"
 filename_root: index
 title: GTEC 2013 Open Data Speed Dating Event
@@ -8,8 +7,6 @@ description: English description
 modified: "Date modified (2013-08-07)"
 breadcrumb: false
 ---
-
-{{ site.description_en }}
 
 Are you passionate about using open data to create innovative solutions to economic, environmental or social problems?
 
